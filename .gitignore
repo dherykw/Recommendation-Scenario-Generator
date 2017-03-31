@@ -95,3 +95,9 @@ ENV/
 # Rope project settings
 .ropeproject
 
+.gitignore
+RecomendationScenarioGenerator/
+manage.py
+objects/
+templates/
+users/
